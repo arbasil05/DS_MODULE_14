@@ -11,11 +11,11 @@ To write a C program to delete three elements from the filled circular queue.
 5. End the program
 
 ## Program:
-```
+```c
 /*
 Program to delete three elements from the filled circular queue
-Developed by: Kurapati Vishnu Vardhan Reddy
-RegisterNumber: 212223040103
+Developed by: Abdur Rahman Basil A H
+RegisterNumber: 212223040002
 */
 
 int deQueue() {
